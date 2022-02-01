@@ -6,7 +6,7 @@ A usual shooting game that implements as many basic functions used for this type
 
 Allowed to modify the codes for further development!
 
-Please Look at a demo video "***shooting-game-demo.mp4***"
+Please watch a demo video "***shooting-game-demo.mp4***"
 
 ## Skills Used
 - C#, Unity Engine
