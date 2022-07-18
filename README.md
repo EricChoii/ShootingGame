@@ -12,4 +12,4 @@ Please watch a demo video "***shooting-game-demo.mp4***"
 - C#, Unity Engine
 
 ## Note
-If any question, please reach out to https://www.linkedin.com/in/eric-choi-2b10b11a0/
+If any question, please reach out to https://www.linkedin.com/in/hojun-choi-2b10b11a0/
